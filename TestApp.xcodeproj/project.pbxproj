@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B74DB4D256E960500D5F7EA /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B74DB4C256E960500D5F7EA /* NextViewController.swift */; };
 		3B830C5E256D3A04001A5BBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B830C5D256D3A04001A5BBA /* AppDelegate.swift */; };
 		3B830C60256D3A04001A5BBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B830C5F256D3A04001A5BBA /* SceneDelegate.swift */; };
 		3B830C62256D3A04001A5BBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B830C61256D3A04001A5BBA /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B74DB4C256E960500D5F7EA /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		3B830C5A256D3A04001A5BBA /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B830C5D256D3A04001A5BBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B830C5F256D3A04001A5BBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3B830C5D256D3A04001A5BBA /* AppDelegate.swift */,
 				3B830C5F256D3A04001A5BBA /* SceneDelegate.swift */,
 				3B830C61256D3A04001A5BBA /* ViewController.swift */,
+				3B74DB4C256E960500D5F7EA /* NextViewController.swift */,
 				3B830C63256D3A04001A5BBA /* Main.storyboard */,
 				3B830C66256D3A06001A5BBA /* Assets.xcassets */,
 				3B830C68256D3A06001A5BBA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B830C62256D3A04001A5BBA /* ViewController.swift in Sources */,
+				3B74DB4D256E960500D5F7EA /* NextViewController.swift in Sources */,
 				3B830C5E256D3A04001A5BBA /* AppDelegate.swift in Sources */,
 				3B830C60256D3A04001A5BBA /* SceneDelegate.swift in Sources */,
 			);
