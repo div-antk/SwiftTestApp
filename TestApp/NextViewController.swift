@@ -9,13 +9,21 @@ import UIKit
 
 class NextViewController: UIViewController {
 
+   
+    @IBOutlet weak var label: UILabel!
+  
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    
+    @IBAction func change(_ sender: Any) {
+      label.text = "（´ω｀）"
+      label.font = UIFont.boldSystemFont(ofSize: 10)
+    }
+  
     /*
     // MARK: - Navigation
 
